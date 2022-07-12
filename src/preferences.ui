@@ -36,6 +36,7 @@
                           <item id="FR" translatable="yes">French</item>
                           <item id="DE" translatable="yes">German</item>
                           <item id="ES" translatable="yes">Spanish</item>
+                          <item id="JP" translatable="yes">Japanese</item>
                         </items>
                         <style>
                           <class name="plain"/>

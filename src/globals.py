@@ -6,7 +6,8 @@ amazon_uris = {
     "IT": "https://music.amazon.it",
     "FR": "https://music.amazon.fr",
     "DE": "https://music.amazon.de",
-    "ES": "https://music.amazon.es"
+    "ES": "https://music.amazon.es",
+    "JP": "https://music.amazon.co.jp"
 }
 
 cookies_path = f"{Path.home()}/.cache/cookies.sqlite"
